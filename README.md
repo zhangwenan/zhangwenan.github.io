@@ -65,7 +65,7 @@
 *   内网搭建了公司的npm包管理系统，使用的是阿里的npmjs
 
 ### 安全相关
-*   公司内部为了加强安全,需要对所有后台页面加上水印。又开发了相应的公共组件。(https://git.dawanju.net/mhc-fe/infrastructure/watermark)
+*   公司内部为了加强安全,需要对所有后台页面加上水印。又开发了相应的公共组件。(https://github.com/zhangwenan/watermark)
 *   当业务发展到一定阶段的时候，发现了前端页面的一些XSS漏洞等问题，并做相应的解决。
 
 ### 其他
