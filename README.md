@@ -60,8 +60,8 @@
 *   为了方便数据mock，使用了三方开源的yapi，来管理接口
 
 ### 静态资源的管理
-*   项目所有静态资源，使用的第三方的七牛CDN，开发了七牛的上传工具(https://git.dawanju.net/mhc-fe/infrastructure/bumblebee)
-*   三方库的查询系统。(https://git.dawanju.net/mhc-fe/infrastructure/cdn)
+*   项目所有静态资源，使用的第三方的七牛CDN，开发了七牛的上传工具
+*   三方库的查询系统。(https://github.com/zhangwenan/cdn)
 *   内网搭建了公司的npm包管理系统，使用的是阿里的npmjs
 
 ### 安全相关
